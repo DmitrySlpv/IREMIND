@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">IREMIND</string>
     <string name="search">Search</string>
+    <string name="n">Напоминания</string>
+    <string name="iz">Избранное</string>
+    <string name="arhiv">Архив</string>
+    <string name="sett">Настройки</string>
+    <string name="spravka">Справка</string>
 </resources>
