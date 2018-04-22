@@ -6,4 +6,9 @@
     <string name="arhiv">Архив</string>
     <string name="sett">Настройки</string>
     <string name="spravka">Справка</string>
+    <string name="Nav_open">Open</string>
+    <string name="Nav_close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
